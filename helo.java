@@ -1,4 +1,5 @@
-public class Hello{
-    public static void main(string [] args)
-        system.out.printIn(x: "Hello");
+public class helo{
+    public static void main(String [] args){
+        System.out.println( "Hello");
+}
 }
