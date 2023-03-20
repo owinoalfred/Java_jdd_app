@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Java Proj 101-1"
+git commit -m "JVM JRE JVM congigs"
 git push
