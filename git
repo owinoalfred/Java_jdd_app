@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "JVM JRE JVM congigs"
+git commit -m "Date being updated"
 git push
