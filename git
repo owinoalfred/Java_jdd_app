@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "arrays.deep.tostring()"
+git commit -m "aarithmetic oppps"
 git push
