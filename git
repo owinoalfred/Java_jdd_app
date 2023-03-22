@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Date being updated"
+git commit -m "Letters modification"
 git push
