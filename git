@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "aarithmetic oppps"
+git commit -m "tenarry operators!"
 git push
