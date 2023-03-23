@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "tenarry operators!"
+git commit -m "Switches are my best!"
 git push
