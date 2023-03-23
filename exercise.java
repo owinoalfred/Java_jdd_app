@@ -13,7 +13,7 @@ public class exercise{
             System.out.println("BUZZ");
         }
         else if (userInput%5==0){
-            System.out.println("FIZZ");
+            System.out.println("FIZZ15");
         }
         else{
             System.out.println(userInput);
