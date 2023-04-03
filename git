@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "while loops"
+git commit -m "3rd april connection successfull!"
 git push
